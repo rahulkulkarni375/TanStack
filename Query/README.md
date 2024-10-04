@@ -24,6 +24,9 @@ but in more technical terms, it makes fetching, caching, synchronizing and updat
 
 - Integration with DevTools: TanStack Query provides developer tools to inspect queries and mutations, making debugging easier.
 
+## References 
+https://tanstack.com/query/latest/docs/framework/react/reference/useQuery
+
 ## Usage/Examples
 Basic Info
 ```javascript
